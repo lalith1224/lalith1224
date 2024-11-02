@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Programming ...
 - 📫 How to reach me :
 <br  />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kishore-453a70330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />] (https://www.instagram.com/lalith___lk/profilecard/?igsh=MTQxODFsZWxueWVvYQ==)
+
  - 💬Ask me about coding 
 
 
@@ -22,7 +23,7 @@
 ------------
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-ASUS_VICTUS_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-HP_VICTUS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
 <!---
