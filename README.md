@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning Programming ...
   
 > *I AM INTERSTED IN LEARNING NEW THINGS*
-> *I LOVE LEARNING THINGS APPART FROM ACADEMICS*
 > 
+> *I LOVE LEARNING THINGS APPART FROM ACADEMICS*
+
 ---
    #    I AM LEARNING 
 ![*THIS IS A IMAGE*](https://img.icons8.com/fluency/48/python.png)
