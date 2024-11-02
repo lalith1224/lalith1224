@@ -22,8 +22,8 @@
 ------------
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
- <img height="30" scr="https://https://img.shields.io/badge/Windows-hp_VICTUS_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-"
+<img height="30" scr="https://https://img.shields.io/badge/Windows-hp_VICTUS_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
 
 <!---
 lalith1224/lalith1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
