@@ -1,5 +1,5 @@
 #  👋 Hi, **I’m LALITH** :
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 *I AM A STUDENT*
 - 👀 I’m interested in Python...
@@ -18,6 +18,9 @@
 ![*THIS IS A IMAGE* ](https://img.icons8.com/color/48/000000/html-5.png )
 
 ------------
+
+
+
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-HP_VICTUS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
