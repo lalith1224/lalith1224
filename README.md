@@ -2,7 +2,8 @@
 *I AM A STUDENT*
 - 👀 I’m interested in Python...
 - 🌱 I’m currently learning Programming ...
-  
+- 📫 How to reach me :
+<br /> [<img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kishore)
 > *I AM INTERSTED IN LEARNING NEW THINGS*
 > 
 > *I LOVE LEARNING THINGS APPART FROM ACADEMICS*
