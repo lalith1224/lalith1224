@@ -11,7 +11,7 @@
 
 ---
    #    I AM LEARNING 
-![*THIS IS A IMAGE*](https://img.icons8.com/fluency/48/python.png)......
+![*THIS IS A IMAGE*](https://img.icons8.com/fluency/48/python.png)
 ![*THIS IS A IMAGE* ](https://img.icons8.com/color/48/000000/html-5.png )
 ------------
 <!---
