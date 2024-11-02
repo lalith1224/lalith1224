@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Windows-HP_VICTUS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
-![Lalith1224 's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith1224-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Lalith1224 's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith1224&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 <!---
