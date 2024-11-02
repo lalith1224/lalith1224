@@ -22,7 +22,7 @@
 ------------
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img height="30" scr="https://img.shields.io/badge/Windows-Hp_VICTUS_30078D6?style=forthebadge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
 <!---
