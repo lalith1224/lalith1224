@@ -3,8 +3,8 @@
 - 👀 I’m interested in Python...
 - 🌱 I’m currently learning Programming ...
 - 📫 How to reach me :
-   (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.png)
-
+<br  /> [<img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+ 
 > *I AM INTERSTED IN LEARNING NEW THINGS*
 > 
 > *I LOVE LEARNING THINGS APPART FROM ACADEMICS*
