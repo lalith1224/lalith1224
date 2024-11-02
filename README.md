@@ -28,7 +28,7 @@
 -----------
 
 
-![Lalith1224 's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith1224&theme=dark&show_icons=true&&hide=issues,contribs)
+![LALITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith1224&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 <!---
