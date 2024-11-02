@@ -12,7 +12,7 @@
 ---
    #    I AM LEARNING 
 ![*THIS IS A IMAGE*](https://img.icons8.com/fluency/48/python.png)......
-![*THIS IS A IMAGE* ](src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" )
+![*THIS IS A IMAGE* ](https://img.icons8.com/color/48/000000/html-5.png )
 ------------
 <!---
 lalith1224/lalith1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
