@@ -21,8 +21,8 @@
 
 ------------
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img height="30" scr="https://https://img.shields.io/badge/Windows-hp_VICTUS_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" scr="https://img.shields.io/badge/Windows-hp_VICTUS_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
 <!---
