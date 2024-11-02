@@ -5,7 +5,7 @@
 - 👀 I’m interested in Python...
 - 🌱 I’m currently learning Programming ...
 - 📫 How to reach me :
-<br  />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kishore-453a70330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lalith___lk/profilecard/?igsh=MTQxODFsZWxueWVvYQ==)
+<br  />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kishore-453a70330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />] (https://www.instagram.com/lalith___lk/profilecard/?igsh=MTQxODFsZWxueWVvYQ==)
  - 💬Ask me about coding 
 
 
