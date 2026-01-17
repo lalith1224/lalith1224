@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=lalith1224&style=for-the-badge&color=84ADFF&labelColor=1a1a1a" alt="Profile Views">
 </div>
 
----
+
 
 ## 👋 About Me
 
@@ -71,17 +71,8 @@
   <img height="30" src="https://img.shields.io/badge/Windows-HP_VICTUS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalith1224&show_icons=true&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalith1224&layout=compact&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF" alt="Top Languages" />
-</div>
 
 ---
 
